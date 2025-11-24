@@ -1,0 +1,1 @@
+# next-expense-tracker-ai
